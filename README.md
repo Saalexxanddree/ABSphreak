@@ -3,9 +3,7 @@
 </div>
 
 <div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
+<img src="https://i.imgur.com/my github.gif" alt="Welcome to my Github!" width="300"/>
 </div>
 
 <div align="center">
